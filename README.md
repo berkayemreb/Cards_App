@@ -7,12 +7,13 @@ It is a mobile application that we can view the words of famous people in the st
 
 
 ### Normal view of the application
-![NormalPic](https://raw.githubusercontent.com/bbogum19/Cards_App/master/readme_images/normal_display.png)
+<img src="https://raw.githubusercontent.com/bbogum19/Cards_App/master/readme_images/normal_display.png" width="150" height="300">
+
 
 ### Image after liking an author's word
-![NormalPic](./readme_images/after_liked_displayy.jfif)
+<img src="https://raw.githubusercontent.com/bbogum19/Cards_App/master/readme_images/after_liked_display.png" width="150" height="300">
 
 ### Image after liking a different author's word
-![NormalPic](./readme_images/after_liked_display.jfif)
+<img src="https://raw.githubusercontent.com/bbogum19/Cards_App/master/readme_images/after_liked_displayy.png" width="150" height="300">
 
 *<div align="end"> - Author: [Berkay Emre BOĞUM](https://www.linkedin.com/in/berkay-emre-bo%C4%9Fum-058782240/) </div>*
