@@ -3,7 +3,7 @@
 It is a mobile application that we can view the words of famous people in the structure of cards and like them optionally.
 
 ## Pictures of the application
-------
+
 
 
 ### Normal view of the application
